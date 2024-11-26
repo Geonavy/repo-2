@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\OneDrive\\Desktop\\Programaci\u00F3n\\InterfazXML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA735651-2DEA-417A-A423-4A51FB1DC78C}|InterfazXML.csproj|c:\\users\\home\\onedrive\\desktop\\programaci\u00F3n\\interfazxml\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA735651-2DEA-417A-A423-4A51FB1DC78C}|InterfazXML.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA735651-2DEA-417A-A423-4A51FB1DC78C}|InterfazXML.csproj|c:\\users\\home\\onedrive\\desktop\\programaci\u00F3n\\interfazxml\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA735651-2DEA-417A-A423-4A51FB1DC78C}|InterfazXML.csproj|solutionrelative:proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA735651-2DEA-417A-A423-4A51FB1DC78C}|InterfazXML.csproj|c:\\users\\home\\onedrive\\desktop\\programaci\u00F3n\\interfazxml\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA735651-2DEA-417A-A423-4A51FB1DC78C}|InterfazXML.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Desktop\\Programaci\u00F3n\\InterfazXML\\Administrador.cs",
+              "RelativeDocumentMoniker": "Administrador.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Desktop\\Programaci\u00F3n\\InterfazXML\\Administrador.cs",
+              "RelativeToolTip": "Administrador.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowGYAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:50:45.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Desktop\\Programaci\u00F3n\\InterfazXML\\Proyecto.cs",
+              "RelativeDocumentMoniker": "Proyecto.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Desktop\\Programaci\u00F3n\\InterfazXML\\Proyecto.cs",
+              "RelativeToolTip": "Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:47:49.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Administrador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Desktop\\Programaci\u00F3n\\InterfazXML\\Administrador.cs",
+              "RelativeDocumentMoniker": "Administrador.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Desktop\\Programaci\u00F3n\\InterfazXML\\Administrador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Administrador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:47:28.036Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

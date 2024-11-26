@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<proyectos>
+  <proyecto nombre="JSON" fecha="24-11-2024">
+    <especificaciones>
+      <especificacion numero="1">¿Qué es JSON?</especificacion>
+      <especificacion numero="2">Sintaxis de JSON</especificacion>
+      <especificacion numero="3">WinForms usando JSON</especificacion>
+    </especificaciones>
+  </proyecto>
+  <proyecto nombre="XML" fecha="25-11-2024">
+    <especificaciones>
+      <especificacion numero="1">¿Qué es XML?</especificacion>
+      <especificacion numero="2">Sintaxis de XML</especificacion>
+      <especificacion numero="3">WinForms usando XML</especificacion>
+    </especificaciones>
+  </proyecto>
+</proyectos>

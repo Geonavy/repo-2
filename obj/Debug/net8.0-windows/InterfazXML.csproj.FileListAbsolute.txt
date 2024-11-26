@@ -1,0 +1,34 @@
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\bin\Debug\net8.0-windows\InterfazXML.exe
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\bin\Debug\net8.0-windows\InterfazXML.deps.json
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\bin\Debug\net8.0-windows\InterfazXML.runtimeconfig.json
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\bin\Debug\net8.0-windows\InterfazXML.dll
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\bin\Debug\net8.0-windows\InterfazXML.pdb
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.Administrador.resources
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.csproj.GenerateResource.cache
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.AssemblyInfoInputs.cache
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.AssemblyInfo.cs
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.csproj.CoreCompileInputs.cache
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.dll
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\obj\Debug\net8.0-windows\refint\InterfazXML.dll
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.pdb
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.genruntimeconfig.cache
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\obj\Debug\net8.0-windows\ref\InterfazXML.dll
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazXML\bin\Debug\net8.0-windows\proyectos.xml
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\bin\Debug\net8.0-windows\proyectos.xml
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\bin\Debug\net8.0-windows\InterfazXML.exe
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\bin\Debug\net8.0-windows\InterfazXML.deps.json
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\bin\Debug\net8.0-windows\InterfazXML.runtimeconfig.json
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\bin\Debug\net8.0-windows\InterfazXML.dll
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\bin\Debug\net8.0-windows\InterfazXML.pdb
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.Administrador.resources
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.dll
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\obj\Debug\net8.0-windows\refint\InterfazXML.dll
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.pdb
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\obj\Debug\net8.0-windows\InterfazXML.genruntimeconfig.cache
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazXML\obj\Debug\net8.0-windows\ref\InterfazXML.dll
